@@ -1,0 +1,12 @@
+body{background-color: salmon;
+}
+h2{color:aqua;}
+span {color:orange}
+div{
+    color:plum;
+    width: 500px;
+    height: 300px;
+    border: 2px solid blueviolet;
+    color:cadetblue;
+    background-color: plum;
+} 
